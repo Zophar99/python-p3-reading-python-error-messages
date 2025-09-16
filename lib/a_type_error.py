@@ -1,3 +1,4 @@
 #!/usr/bin/env python3
 
-wrong_type = 'abc' + 123
+two_intergers = 5 + 123
+print(two_intergers)
